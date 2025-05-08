@@ -1,0 +1,176 @@
+       *{
+        margin: 0;
+        padding: 0;
+
+}
+     nav a {
+        color: rgb(130, 123, 123) ;
+        text-decoration:none;
+        font-family:Arial, Helvetica, sans-serif;
+        padding: 10px 20px;
+    }
+
+    nav ul{
+        display:flex;
+        list-style-type: none ;
+        margin-left: 540px;
+        padding: 25px 420px;
+    }
+ nav {
+    background-color:rgba(254, 254, 254, 0.99);
+    padding-bottom: 10px;
+}
+
+nav li a:hover{
+    background: rgba(0, 0, 0, 0.4);
+}
+.everbyte{
+    margin-left: -1100px;
+    height: 40px;
+}
+.duskwood{
+    color: #2EA3F2;
+
+}
+.olho{
+    padding: 154px 200px 40px;
+    height: 390px;
+}
+.logodobrasil{
+    height: 15px;
+}
+.texto{
+    padding: 10px 0 0 517px;
+    color: gray;
+}
+
+.android{
+    display: inline-flex;
+    margin: 10px 680px;
+    padding: 10px -300px ;
+    background-color: rgb(78, 76, 76);
+    color: rgb(238, 235, 235);
+    text-decoration:none;
+    font-size: 30px;
+}
+.IOS{
+    display: inline-flex;
+    margin: 0 -540px;
+    padding: 0 -15px  ;
+    background-color: rgb(78, 76, 76);
+    color: rgb(238, 235, 235);
+    text-decoration:none;
+    font-size: 30px;
+}
+
+.email{
+margin: -80px 510px;
+padding: 5px 340px 20px;
+}
+.language{
+margin: 51px 510px;
+padding: 5px 340px 20px;
+}
+.inscrever{
+    margin: -8px 510px;
+    padding: 5px 370px 20px;
+    background-color: #c36565;
+    border: 2px solid white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:none;
+    color: white;
+}
+h2{
+    background-color: #c36565;
+}
+div h2 p{
+    background-color: #c36565;
+}
+.descricao{
+    margin-top: 20px;
+    color: aliceblue;
+    padding: 15px 0 0 517px;
+    font-size: 35px;
+}
+.p0{
+    background-color: rgb(78, 76, 76);
+}
+
+.p1{
+    padding: 60px 0 0 517px;
+    font-size: 35px;
+    color: rgb(138, 151, 163);
+}
+.p2{
+    padding: 22px 0 0 510px;
+    font-size: 50px;
+    color:aliceblue;
+}
+.p3{
+    padding: 22px 0 0 510px;
+    font-size: 24px;
+    color: rgba(157, 158, 147, 0.941);
+}
+.p4{
+    padding: 22px 0 0 510px;
+    font-size: 24px;
+    color: rgba(157, 158, 147, 0.941);
+}
+.gp{
+    padding: 25px 0 0 510px;
+    height: 65px;
+    
+}
+.ap{
+    padding: 25px 0 0 510px;
+    height: 65px;
+
+}
+
+.forest1{
+    background-color: rgba(9, 25, 61, 0.717);
+    padding: 22px 20px 0 510px;
+    height: 250px;
+}
+.text1{
+    font-size: 20px;
+    color: white;
+    padding-bottom: 20px;
+}
+.text2{
+    font-size: 25px;
+    color: white;
+}
+.forest2{
+    background-color: rgb(5, 4, 4);
+}
+.text3{
+    padding: 30px 0 0 680px;
+    font-size: 90px;
+    color: white;
+}
+.GoogleP{
+    padding: 30px 0 0 680px;
+    height: 60px;
+}
+.AppS{
+    padding: 30px 0 0 -405px;
+    height: 60px;
+}
+.text4{
+    padding: 69px 0 0 740px;
+    font-size: 40px;
+    color: white;
+}
+.FB{
+    padding: 58px 0 0 740px;
+    height: 90px;
+}
+.X{
+    padding: 58px 0 0 14px;
+    height: 90px;
+}
+.instagram{
+    padding: 58px 0 0 30px;
+    height: 90px;
+}
